@@ -18,6 +18,6 @@ Q14: VARCHAR and the maximum legnth is 10
 */
 
 USE sakila;
-
 SELECT * FROM actor;
+
 
